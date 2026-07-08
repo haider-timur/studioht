@@ -1,0 +1,9 @@
+title: Studio HT
+description: Portfolio site
+baseurl: "/studioht"
+url: "https://haider-timur.github.io"
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
