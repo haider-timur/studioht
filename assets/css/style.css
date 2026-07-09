@@ -1,11 +1,16 @@
+:root {
+  --bg-color: #FFFFFF;
+  --text-color: #FFFFFF;
+}
+
 body {
     
     font-family: "Inter Tight", sans-serif;
-    color:  #FFFFFF;
     max-width: 1500px;
     margin: 0 auto;
     padding: 2rem;
-    background: #FFFFFF;
+    background-color: var(--bg-color);
+    color: var(--text-color);
     }
 
 footer p {
