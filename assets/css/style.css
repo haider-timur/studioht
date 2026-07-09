@@ -107,7 +107,7 @@ nav a { margin-right: 1rem; text-decoration: none; color: inherit;}
   display: inline-block;
   width: 28px;
   height: 28px;
-  border: 1px solid #ccc;
+  border: 1px solid #ffffff;
   cursor: pointer;
 }
 
@@ -118,7 +118,7 @@ nav a { margin-right: 1rem; text-decoration: none; color: inherit;}
 
 
 .color-controls label:hover {
-  border-color: #888;
+  border-color: #ff0000;
 }
 
 #bg-color-btn {
