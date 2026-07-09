@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-# Hi, I'm Haider Timur
+# Hi, you've reached Studio Haider Timur
 
-Short intro about what you do.
+Please state here your request and fill out this form for any inquiries. 
