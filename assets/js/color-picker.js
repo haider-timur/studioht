@@ -14,6 +14,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
   textPicker.addEventListener('input', (e) => {
     document.documentElement.style.setProperty('--text-color', e.target.value);
-    textBtn.style.color = e.target.value;
+    textBtn.style.backgroundColor = e.target.value;
   });
 });
