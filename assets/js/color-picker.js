@@ -4,9 +4,6 @@ document.addEventListener('DOMContentLoaded', function () {
   const textBtn = document.getElementById('text-color-btn');
   const textPicker = document.getElementById('text-color-picker');
 
-  bgBtn.addEventListener('click', () => bgPicker.click());
-  textBtn.addEventListener('click', () => textPicker.click());
-
   bgPicker.addEventListener('input', (e) => {
     document.documentElement.style.setProperty('--bg-color', e.target.value);
     bgBtn.style.backgroundColor = e.target.value;

@@ -27,11 +27,11 @@
   </div>
 
   <div class="color-controls">
-  <button id="bg-color-btn" style="background-color: var(--bg-color);"></button>
-  <input type="color" id="bg-color-picker" value="#0000FF" style="display:none;">
+  <label for="bg-color-picker" id="bg-color-btn"></label>
+  <input type="color" id="bg-color-picker" value="#0000FF">
 
-  <button id="text-color-btn" style="background-color: var(--text-color);"></button>
-  <input type="color" id="text-color-picker" value="#000000" style="display:none;">
+  <label for="text-color-picker" id="text-color-btn"></label>
+  <input type="color" id="text-color-picker" value="#000000">
   </div>
 
   <script src="{{ '/assets/js/color-picker.js' | relative_url }}"></script>
