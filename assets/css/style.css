@@ -1,5 +1,5 @@
 :root {
-  --bg-color: #ffff00;
+  --bg-color: #b4b4b4;
   --text-color: #FFFFFF;
 }
 
@@ -58,7 +58,6 @@ nav a { margin-right: 1rem; text-decoration: none; color: inherit;}
 .project-card {
   background: inherit;
   height: auto;
-  border-top-right-radius: 100px;
 }
 
 .project-card img {
@@ -66,13 +65,11 @@ nav a { margin-right: 1rem; text-decoration: none; color: inherit;}
   height: 160px;
   object-fit: cover;
   margin-bottom: 0rem;
-  border-top-right-radius: 100px;
-  border-bottom-left-radius: 60px;
 
 }
 
 .project-card h2 {
-  font-size: 1.2rem;
+  font-size: 1rem;
   margin: 0rem 0;
 }
 
