@@ -5,4 +5,10 @@ title: Home
 
 # Hi, you've reached Studio Haider Timur
 
-Please state here your request and fill out this form for any inquiries. 
+Please choose an option below and fill out a form that suits your inquiry. 
+
+1. Collaboration
+
+2. Commission
+
+3. Other

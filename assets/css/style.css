@@ -53,12 +53,13 @@ nav a { margin-right: 1rem; text-decoration: none; color: inherit;}
   text-decoration: none;
   color: black;
   display: block;
-  border: 1px dotted rgba(0, 0, 255);
-
 }
 
 .project-card {
   background: white;
+  border-bottom-left-radius: 60px;
+  height: 350px;
+  border-top-right-radius: 100px;
 }
 
 .project-card img {
@@ -66,6 +67,9 @@ nav a { margin-right: 1rem; text-decoration: none; color: inherit;}
   height: 160px;
   object-fit: cover;
   margin-bottom: 0rem;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 60px;
+
 }
 
 .project-card h2 {
