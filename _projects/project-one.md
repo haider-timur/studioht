@@ -1,6 +1,6 @@
 ---
 title: "Temirtau Audiovisual Project"
-description: "Description"
+description: "Temirtau is a so-called coal-town, one of Soviet projects from the period when coal plant building was taking place across the entirety of the USSR."
 date: 2021-11-01
 thumbnail: /assets/images/temirtau-audiovisual-project.png
 layout: project

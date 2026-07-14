@@ -51,14 +51,13 @@ nav a { margin-right: 1rem; text-decoration: none; color: inherit;}
 
 .project-grid a {
   text-decoration: none;
-  color: black;
+  color: var(--text-color);
   display: block;
 }
 
 .project-card {
-  background: white;
-  border-bottom-left-radius: 60px;
-  height: 350px;
+  background: inherit;
+  height: auto;
   border-top-right-radius: 100px;
 }
 
@@ -75,6 +74,11 @@ nav a { margin-right: 1rem; text-decoration: none; color: inherit;}
 .project-card h2 {
   font-size: 1.2rem;
   margin: 0rem 0;
+}
+
+.project-card p {
+  font-size: 0.8rem;
+  margin: 1rem 0;
 }
 
 
