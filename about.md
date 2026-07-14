@@ -3,6 +3,7 @@ layout: default
 title: About
 ---
 
-# Hi, I'm [Name]
+# Hi, I'm Haider Timur.
 
-Short intro about what you do.
+I am a graphic designer with 6 years experience in digital design. I've also recently started
+a sound, performance, and installation practice to create narrative-driven performances and express my artistic vision.  

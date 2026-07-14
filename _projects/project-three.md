@@ -1,8 +1,8 @@
 ---
-title: "Project Three"
-description: "Description"
-date: 2026-06-15
-thumbnail: /assets/images/playfight-club_2nd-edition.jpg
+title: "storefront poem Caspia Cassiopeia"
+description: "A poem exhibited on the storefront of Page Not Found, as part of their open call 'Open Letters.'"
+date: 2023-01-25
+thumbnail: /assets/images/PNFOpenLetterCaspiaCassiopeia.JPG
 layout: project
 ---
 
