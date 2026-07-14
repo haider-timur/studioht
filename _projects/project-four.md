@@ -1,9 +1,12 @@
 ---
-title: "Project Four"
-description: "Description"
-date: 2026-06-21
-thumbnail: /assets/images/playfight-club_2nd-edition.jpg
+title: "in extractive terrains at Framer Framed"
+description: "Screening of the Temirtau video at the event titled 'In Extractive Terrains' at Framer Framed, Amsterdam."
+date: 2023-03-06
+thumbnail: /assets/images/230603-In-Extractive-Terrains.JPG
 layout: project
 ---
 
-Write a longer description of the project here — what it does, what problem it solves, what you learned building it. This is regular Markdown, so you can use **bold**, [links](https://example.com), lists, etc.
+<p>Screening of the Temirtau video at the event titled 'In Extractive Terrains' at Framer Framed, Amsterdam. 
+The event invited artists and researchers who are from and work with the environments of Central Asia and Ukraine, 
+regions which share a past of Russian imperialism and colonialism in connection with their natural resources. 
+Click <a href="https://framerframed.nl/projecten/in-extractive-terrains/">here</a> for a complete description of the event.</p>
