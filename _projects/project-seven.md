@@ -1,6 +1,6 @@
 ---
 title: "buulbuul Ja Ja Ja Nee Nee Nee residency"
-description: "A lecture on my project about Kazakh typography and archiving it in different scripts. Part of Studio Dull x BarTalk series."
+description: "Having formed a duo called 'buulbuul' (from Kazakh 'nightingale'), my collaborator and friend Kas and I have joined a residency at Ja Ja Ja Nee Nee Nee Radio."
 date: 2024-09-01
 thumbnail: /assets/images/sazsırnay_2.jpg
 layout: project
