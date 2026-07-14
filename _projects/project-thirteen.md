@@ -7,6 +7,8 @@ layout: project
 images:
   - src: /assets/images/playfight-club_Aug-01.jpg
     alt: ""
+  - src: /assets/images/playfight-club_Aug-02.jpg
+    alt: ""
   - src: /assets/images/playfight-club_Aug_alt.jpg
     alt: ""
   - src: /assets/images/playfight-club_2nd-edition.jpg
