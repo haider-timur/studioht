@@ -4,12 +4,12 @@ description: "Having formed a duo called 'buulbuul' (from Kazakh 'nightingale'),
 date: 2024-09-01
 thumbnail: /assets/images/sazsırnay_2.jpg
 layout: project
+audio:
+  - src: /assets/audio/buulbuul-JJJNNN_2_MMAUDIO_master.mp3
 images:
   - src: /assets/images/DSCF0382.jpg
     alt: ""
     caption: Photo by © Zinmong Studio
-audio:
-  - src: /assets/audio/buulbuul-JJJNNN_2_MMAUDIO_master.mp3
 
 ---
 
