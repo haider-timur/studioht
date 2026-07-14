@@ -2,10 +2,10 @@
 title: "Temirtau Audiovisual Project"
 description: "Description"
 date: 2021-11-01
-thumbnail: /assets/images/_temirtau-audiovisual-project.png
+thumbnail: /assets/images/temirtau-audiovisual-project.png
 layout: project
 images:
-  - src: /assets/images/_temirtau-audiovisual-project.png 
+  - src: /assets/images/temirtau-audiovisual-project.png 
     alt: ""
     caption: "Still from Temirtau"
     
