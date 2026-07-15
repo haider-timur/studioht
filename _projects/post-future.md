@@ -4,6 +4,10 @@ description: "Graphic design, installation design, audio and video setup for an 
 date: 2025-05-17
 thumbnail: /assets/images/history-kz.webp
 layout: project
+images:
+  - src: /assets/images/history-kz.webp
+    alt: ""
+    caption: Designed by me, 2025
 
 ---
 
