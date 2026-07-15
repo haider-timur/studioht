@@ -27,7 +27,7 @@ footer p {
 
 h1 { font-family: "Black Ops One", system-ui; #FFFFFF;}
 
-nav a { margin-right: 1rem; text-decoration: none; color: inherit;}
+nav a { margin-right: 1.2rem; text-decoration: none; color: inherit;}
 
 .project-grid {
   display: grid;
