@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: Home
 ---
 
 {% assign sorted_projects = site.projects | sort: 'date' | reverse %}

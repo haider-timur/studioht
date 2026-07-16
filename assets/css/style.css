@@ -143,6 +143,7 @@ nav {
 }
 
 
+
 .color-controls {
   display: flex;
   align-items: center;
@@ -150,7 +151,7 @@ nav {
 }
 
 .color-label {
-  font-size: 0.85rem;
+  font-size: 0.8rem;
 }
 
 @media (max-width: 600px) {
