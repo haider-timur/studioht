@@ -15,15 +15,23 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
+
+
 </head>
 <body>
 
+    
   <div class="container">
-  {% include nav.html %}
-  <main>
-    {{ content }}
-  </main>
-  {% include footer.html %}
+  
+    {% include nav.html %}
+
+    <main>
+      {{ content }}
+    </main>
+    {% include footer.html %}
   </div>
 
   <script src="{{ '/assets/js/color-picker.js' | relative_url }}"></script>

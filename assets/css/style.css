@@ -1,38 +1,79 @@
 :root {
-  --bg-color: #b4b4b4;
-  --text-color: #FFFFFF;
+  --bg-color: #ffffff;
+  --text-color: #3614af;
 }
 
 body {
-    font-family: "Inter Tight", sans-serif;
-    max-width: 1500px;
-    margin: 0 auto;
-    padding: 2rem;
-    background-color: var(--bg-color);
-    color: var(--text-color);
-    }
+  font-family: "Inter Tight", sans-serif;
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
 
 footer p {
-   font-size: 0.8rem;
-}    
+  font-size: 0.8rem;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
 .container {
   max-width: var(--max-width);
   margin: 0 auto;
   margin-bottom: 1rem;
-  padding: 1vw 1vw 1vw 1vw;
-  background: rgba(0, 0, 255);
+  padding: 1vw;
+  background: #dedede;
+}
 
-  }
+h1 {
+  font-family: "Roboto Slab", serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: var(--text-color);
+}
 
 
-h1 { font-family: "Black Ops One", system-ui; #FFFFFF;}
+nav {
+  background: #dedede;
+  margin: 0rem 0;
+  padding: 0vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
 
-nav a { margin-right: 1.2rem; text-decoration: none; color: inherit;}
+.nav-left,
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.nav-left a,
+.nav-right a {
+  text-decoration: none;
+  color: inherit;
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-size: 2rem;
+  font-weight: 500;
+}
+
 
 .project-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 1.5rem;
+  gap: 3rem;
   margin: 2rem 0;
 }
 
@@ -58,6 +99,7 @@ nav a { margin-right: 1.2rem; text-decoration: none; color: inherit;}
 .project-card {
   background: inherit;
   height: auto;
+  width: 100%;
 }
 
 .project-card img {
@@ -69,13 +111,8 @@ nav a { margin-right: 1.2rem; text-decoration: none; color: inherit;}
 }
 
 .project-card h2 {
-  font-size: 1.2rem;
+  font-size: 1rem;
   margin: 0rem 0;
-}
-
-.project-card p {
-  font-size: 0.9rem;
-  margin: 1rem 0;
 }
 
 
@@ -95,17 +132,36 @@ nav a { margin-right: 1.2rem; text-decoration: none; color: inherit;}
 
 .project-gallery figcaption {
   font-size: 0.7rem;
-  color: #ffffff;
+  color: var(--text-color);
   margin-top: 0.4rem;
   text-align: left;
 }
 
 
 .project .project-body a {
-  color: #00ff00;
+  color: #20c320;
 }
 
 
+.color-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.color-label {
+  font-size: 0.85rem;
+}
+
+@media (max-width: 600px) {
+  .color-label {
+    display: none;
+  }
+
+  .color-controls {
+    gap: 0.75rem;
+  }
+}
 
 .color-controls input[type="color"] {
   position: absolute;
@@ -124,12 +180,6 @@ nav a { margin-right: 1.2rem; text-decoration: none; color: inherit;}
   cursor: pointer;
 }
 
-.color-controls {
-  display: flex;
-  gap: 0.5rem;
-}
-
-
 .color-controls label:hover {
   border-color: #ff0000;
 }
@@ -141,7 +191,6 @@ nav a { margin-right: 1.2rem; text-decoration: none; color: inherit;}
 #text-color-btn {
   background-color: var(--text-color);
 }
-
 
 
 

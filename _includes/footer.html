@@ -1,10 +1,14 @@
 <footer>
   <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
-  <div class="color-controls">
-  <label for="bg-color-picker" id="bg-color-btn"></label>
-  <input type="color" id="bg-color-picker" value="#0000FF">
 
-  <label for="text-color-picker" id="text-color-btn"></label>
-  <input type="color" id="text-color-picker" value="#000000">
+  <div class="color-controls">
+    <span class="color-label">background color:</span>
+    <label for="bg-color-picker" id="bg-color-btn"></label>
+    <input type="color" id="bg-color-picker" value="#ffffff">
+
+    <span class="color-label">text color:</span>
+    <label for="text-color-picker" id="text-color-btn"></label>
+    <input type="color" id="text-color-picker" value="#3614af">
   </div>
+  
 </footer>
