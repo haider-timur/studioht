@@ -35,7 +35,7 @@ footer {
 
 h1 {
   font-family: "Roboto Slab", serif;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   font-weight: 400;
   color: var(--text-color);
 }
@@ -48,25 +48,67 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 1rem;
+  position: relative;
 }
 
-.nav-left,
-.nav-right {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
+.nav-left {
+  min-width: 0;
+  overflow: hidden;
 }
 
-.nav-left a,
-.nav-right a {
+.nav-left a {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+}
+
+.nav-toggle {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.4rem 0.8rem;
+  font-family: "Roboto Slab", serif;
+  font-size: 1.1rem;
+  color: inherit;
+  white-space: nowrap;
+}
+
+.nav-mobile-menu {
+  display: none;
+  flex-direction: column;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background: #dedede;
+  min-width: 160px;
+  padding: 0.5rem 0;
+  z-index: 10;
+}
+
+.nav-mobile-menu a {
+  padding: 0.6rem 1rem;
   text-decoration: none;
   color: inherit;
   font-family: "Roboto Slab", serif;
-  font-optical-sizing: auto;
-  font-size: 2rem;
-  font-weight: 500;
+  font-size: 1.2rem;
+}
+
+.nav-mobile-menu.open {
+  display: flex;
+}
+
+@media (max-width: 600px) {
+  .nav-right {
+    display: none;
+  }
+
+  .nav-toggle {
+    display: block;
+  }
 }
 
 
@@ -111,8 +153,10 @@ nav {
 }
 
 .project-card h2 {
-  font-size: 1rem;
-  margin: 0rem 0;
+  font-size: 1.4rem;
+  margin: 0.5rem 0;
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
+  font-weight: 300;
 }
 
 
