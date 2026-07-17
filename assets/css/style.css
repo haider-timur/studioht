@@ -145,10 +145,6 @@ nav {
     width: 100%;
   }
 
-  .project-gallery figure:only-child {
-  max-width: 400px;
-  margin: 0 0.5rem;
-  }
 }
 
 
@@ -233,6 +229,7 @@ nav {
     object-fit: cover;
     margin-bottom: 0rem;
   }
+
 }
 
 
