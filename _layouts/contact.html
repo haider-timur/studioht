@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<article class="contact">
+  <div class="contact-body">
+    {{ content }}
+  </div>
+
+  {% if page.images %}
+    <div class="project-gallery">
+      {% for img in page.images %}
+        <figure>
+          <img src="{{ img.src | relative_url }}" alt="{{ img.alt }}">
+          {% if img.caption %}
+            <figcaption>{{ img.caption }}</figcaption>
+          {% endif %}
+        </figure>
+      {% endfor %}
+    </div>
+  {% endif %}
+  
+  <div class="lightbox" id="lightbox">
+  <span class="lightbox-close" id="lightbox-close">&times;</span>
+  <img src="" alt="" id="lightbox-img">
+  </div>
+  
+</article>
