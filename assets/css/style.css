@@ -252,6 +252,13 @@ nav {
   margin: 0 auto;
 }
 
+@media (max-width: 500px) {
+  .project-gallery figure:only-child {
+  max-width: 400px;
+  margin: 0 0.5rem;
+}
+}
+
 .project-gallery figcaption {
   font-size: 0.7rem;
   color: var(--text-color);
