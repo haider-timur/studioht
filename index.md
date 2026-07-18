@@ -3,14 +3,14 @@ layout: default
 title: Home
 ---
 
-<div class="intro">
+<div class="intro" id="intro">
 <p><strong>Hi, you've reached Haider Timur!</strong> I am a graphic designer with 6 years of experience in digital design.</p>
 
 <p>I've also recently started a sound, performance, and installation practice to create narrative-driven performances and express my artistic vision.</p></div>
 
 {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
 
-<div id="filter-indicator" style="display:none; margin-bottom: 1rem;">
+<div id="filter-indicator" style="display:none; margin-bottom: 1rem; margin-top: 1.5rem; color: #888888; text-shadow: 0 0 8px #ffbbfd, 0 0 16px #ffbbfd, 0 0 24px #ffbbfd;">
   Showing: <strong id="filter-tag-label"></strong>
   <a style ="text-decoration:none; color: #20c320;" href="{{ '/' | relative_url }}">(clear)</a>
 </div>

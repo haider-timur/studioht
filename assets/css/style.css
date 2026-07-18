@@ -91,7 +91,6 @@ nav {
   display: block;
   width: 100%;
   padding: 0rem 0.89rem;
-  gap: 1rem;
   text-decoration: none;
   color: var(--text-color);
   font-family: "Roboto Slab", serif;
@@ -128,34 +127,40 @@ nav {
 @media (max-width: 800px) {
 
   footer {
-  margin: 0 0.62rem;
+  margin: 0 0.64rem;
   margin-top: 1rem;
   margin-bottom: 0.5rem;
   }
 
   h1 {
-   margin: 0 0.62rem;
+   margin: 0 0.64rem;
    margin-top: 1rem; 
   }
   
   .project .project-body {
-  margin: 0 0.62rem;
+  margin: 0 0.64rem;
   }
   .about .about-body {
-  margin: 0 0.62rem;
+  margin: 0 0.64rem;
   }
 
   .intro {
     display: block;
     margin-top: 2rem;
+    color: var(--text-color);
+    text-shadow: 0 0 8px #ffffff, 0 0 16px #ffffff, 0 0 24px #ffffff;
   }
   
   .intro p {
-  margin: 1rem 0.63rem;
+  margin: 1rem 0.64rem;
+  }
+
+  #filter-indicator {
+    margin-left: 0.64rem;
   }
 
   .contact .contact-body {
-  margin: 0 0.62rem;
+  margin: 0 0.64rem;
   }
 
   .nav-desktop {
@@ -228,7 +233,7 @@ nav {
   }
   .project-card {
     max-width: 100%;
-    margin: 0 0.62rem;
+    margin: 0 0.64rem;
   }
 
   .project-card img {
@@ -246,7 +251,7 @@ nav {
 
   .project-card {
     max-width: 100%;
-    margin: 0 0.62rem;
+    margin: 0 0.64rem;
   }
 
   .project-card img {
@@ -281,7 +286,7 @@ nav {
 @media (max-width: 500px) {
   .project-gallery figure:only-child {
   max-width: 400px;
-  margin: 0 0.62rem;
+  margin: 0 0.64rem;
 }
 }
 

@@ -15,5 +15,10 @@ document.addEventListener('DOMContentLoaded', function () {
       label.textContent = tag;
       indicator.style.display = 'block';
     }
+
+    const intro = document.getElementById('intro');
+    if (intro) {
+      intro.style.display = 'none';
+    }
   }
 });
