@@ -4,9 +4,10 @@ title: Home
 ---
 
 <div class="intro" id="intro">
-<p><strong>Hi, you've reached Haider Timur!</strong> I am a graphic designer with 6 years of experience in digital design.</p>
+<p><strong>Hi, you've reached Haider Timur!</strong> I am a graphic designer based in Amsterdam with 6 years of experience in digital design.</p>
 
-<p>I've also recently started a sound, performance, and installation practice to create narrative-driven performances and express my artistic vision.</p></div>
+<p>I've also started a narrative-driven sound, performance, and installation practice to express my artistic vision.</p>
+<p>See my projects below.</p></div>
 
 {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
 
