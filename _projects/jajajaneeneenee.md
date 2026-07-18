@@ -1,5 +1,5 @@
 ---
-title: "buulbuul Ja Ja Ja Nee Nee Nee residency"
+title: "buulbuul Ja Ja Ja Nee Nee Nee Radio residency"
 description: "Having formed a duo called 'buulbuul' (from Kazakh 'nightingale'), my collaborator and friend Kas and I have joined a residency at Ja Ja Ja Nee Nee Nee Radio."
 date: 2024-10-01
 tags: [audio, poetry]

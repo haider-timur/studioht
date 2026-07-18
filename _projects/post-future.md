@@ -1,5 +1,5 @@
 ---
-title: "post-future / astana - venice exhibition at the national museum of astana"
+title: "post-future / astana - venice exhibition at the National Museum of Astana"
 description: "Graphic design, installation design, audio and video setup for an exposition by Alyona Kaidagaliyeva, presenting her research titled 'From Avant-Garde to Biennale: A Parallel History of Kazakhstani Art."
 date: 2025-05-17
 tags: [print, graphic design, installation]

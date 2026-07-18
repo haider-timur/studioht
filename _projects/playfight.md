@@ -1,5 +1,5 @@
 ---
-title: "playfight club - visual identity and poster designs"
+title: "visual identity and poster designs for Playfight Club"
 description: "Series of events geared towards developing physical playfulness and nonverbal communication for queer and trans people."
 date: 2026-07-14
 tags: [visual identity, graphic design]
