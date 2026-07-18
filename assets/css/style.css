@@ -112,21 +112,21 @@ nav {
 @media (max-width: 800px) {
 
   footer {
-  margin: 0 0.5rem;
+  margin: 0 0.62rem;
   margin-top: 1rem;
   margin-bottom: 0.5rem;
   }
 
   h1 {
-   margin: 0 0.5rem;
+   margin: 0 0.62rem;
    margin-top: 1rem; 
   }
   
   .project .project-body {
-  margin: 0 0.5rem;
+  margin: 0 0.62rem;
   }
   .about .about-body {
-  margin: 0 0.5rem;
+  margin: 0 0.62rem;
   }
 
   .intro {
@@ -135,11 +135,11 @@ nav {
   }
   
   .intro p {
-  margin: 1rem 0.5rem;
+  margin: 1rem 0.62rem;
   }
 
   .contact .contact-body {
-  margin: 0 0.5rem;
+  margin: 0 0.62rem;
   }
 
   .nav-right,
@@ -218,7 +218,7 @@ nav {
   }
   .project-card {
     max-width: 100%;
-    margin: 0 0.6rem;
+    margin: 0 0.62rem;
   }
 
   .project-card img {
@@ -236,7 +236,7 @@ nav {
 
   .project-card {
     max-width: 100%;
-    margin: 0 0.6rem;
+    margin: 0 0.62rem;
   }
 
   .project-card img {
@@ -271,7 +271,7 @@ nav {
 @media (max-width: 500px) {
   .project-gallery figure:only-child {
   max-width: 400px;
-  margin: 0 0.5rem;
+  margin: 0 0.62rem;
 }
 }
 
@@ -496,3 +496,7 @@ nav {
 }
 
 
+.filter-tag-label a {
+  text-decoration: none;
+  color: #20c320;
+}

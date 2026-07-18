@@ -12,7 +12,7 @@ title: Home
 
 <div id="filter-indicator" style="display:none; margin-bottom: 1rem;">
   Showing: <strong id="filter-tag-label"></strong>
-  <a href="{{ '/' | relative_url }}">(clear)</a>
+  <a style ="text-decoration:none; color: #20c320;" href="{{ '/' | relative_url }}">(clear)</a>
 </div>
 
 <div class="project-grid" id="project-grid">
