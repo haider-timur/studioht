@@ -124,6 +124,12 @@ nav {
   margin: 0 auto;
   }
 
+#filter-indicator {
+  margin-top: 1.5rem;
+    color: #888888;
+    text-shadow: 0 0 8px #ffbbfd, 0 0 16px #ffbbfd, 0 0 24px #ffbbfd;
+}
+
 @media (max-width: 800px) {
 
   footer {
@@ -148,7 +154,7 @@ nav {
     display: block;
     margin-top: 2rem;
     color: var(--text-color);
-    text-shadow: 0 0 8px #ffffff, 0 0 16px #ffffff, 0 0 24px #ffffff;
+    text-shadow: 0 0 8px #ffff8d, 0 0 16px #ffff8d, 0 0 24px #ffff8d;
   }
   
   .intro p {

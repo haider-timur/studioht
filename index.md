@@ -10,7 +10,7 @@ title: Home
 
 {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
 
-<div id="filter-indicator" style="display:none; margin-bottom: 1rem; margin-top: 1.5rem; color: #888888; text-shadow: 0 0 8px #ffbbfd, 0 0 16px #ffbbfd, 0 0 24px #ffbbfd;">
+<div id="filter-indicator" style="display:none; margin-bottom: 1rem;">
   Showing: <strong id="filter-tag-label"></strong>
   <a style ="text-decoration:none; color: #20c320;" href="{{ '/' | relative_url }}">(clear)</a>
 </div>
