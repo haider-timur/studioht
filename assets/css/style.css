@@ -480,7 +480,7 @@ nav {
   flex-wrap: wrap;
   gap: 0.4rem;
   padding: 0;
-  margin: 0.5rem 0;
+  margin: 0.5rem auto;
 }
 
 @media (max-width: 1000px) {
