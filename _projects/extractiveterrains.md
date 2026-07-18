@@ -1,6 +1,7 @@
 ---
 title: "in extractive terrains at Framer Framed"
 description: "Screening of the Temirtau video at the event titled 'In Extractive Terrains' at Framer Framed, Amsterdam."
+tags: [talks, interviews, audio, video]
 date: 2023-03-06
 thumbnail: /assets/images/230603-In-Extractive-Terrains.JPG
 layout: project

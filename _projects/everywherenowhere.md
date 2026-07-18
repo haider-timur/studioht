@@ -2,6 +2,7 @@
 title: "everywhere nowhere but rooted at Perdu"
 description: "This evening was dedicated to the work of three of the latest residents of Ja Ja Ja Nee Nee Nee Nee Radio. As a music & performance duo buulbuul, Kas and I have presented our work during this evening at Perdu."
 date: 2025-02-14
+tags: [performance, print, poetry, audio]
 thumbnail: /assets/images/Rooted-34-low-res.jpg
 layout: project
 images:

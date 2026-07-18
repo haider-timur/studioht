@@ -2,6 +2,7 @@
 title: "the burial of a brown goose - sonic acts x framer framed. installation and performance"
 description: "‘The Burial of a Brown Goose’ was commissioned by Framer Framed and Sonic Acts for the exhibition 'Between Fires' (2026)."
 date: 2026-02-13
+tags: [performance, installation, audio]
 thumbnail: /assets/images/L1211362.jpg
 layout: project
 images:

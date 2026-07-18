@@ -2,6 +2,7 @@
 title: "dragging liquid ga(y)zes at Jakoozi - poster design"
 description: "'How can we use our bodies as resistance, pleasure, and protection in a world of state control and hyper-surveillance?'"
 date: 2026-06-13
+tags: [print, graphic design]
 thumbnail: /assets/images/dragging-liquid-gayzes-7-June-IG.jpg
 layout: project
 images:

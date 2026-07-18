@@ -2,6 +2,7 @@
 title: "world prideotest exhibition at No Limits! Art Castle - poster submission"
 description: "'Because now there is more to protest against than ever before. And every struggle is interconnected.'"
 date: 2026-06-12
+tags: [print, graphic design]
 thumbnail: /assets/images/protest_poster_26May-2026_web.jpg
 layout: project
 images:

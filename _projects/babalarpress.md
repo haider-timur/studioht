@@ -2,6 +2,7 @@
 title: "logo and website for Babalar Press"
 description: "Babalar Press is a Qazaq experimental research, writing and publishing initiative for relearning, reclaiming and reimagining our ancestral knowledge(s)."
 date: 2023-08-01
+tags: [web design, visual identity, graphic design]
 thumbnail: /assets/images/babalar-press-website.gif
 layout: project
 ---

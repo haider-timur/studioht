@@ -179,6 +179,8 @@ nav {
   height: 250px;
   object-fit: cover;
   margin-bottom: 0rem;
+  border-bottom: 1px solid var(--text-color);
+  box-sizing: border-box;
 }
 
 .project-card h2 {
@@ -186,6 +188,7 @@ nav {
   margin: 0.5rem 0;
   font-family: 'Inter Tight', sans-serif;
   font-weight: 300;
+  margin-bottom: 1rem;
 }
 
 /* Media queries now come LAST, so they correctly override the base rules above */
@@ -330,11 +333,13 @@ nav {
     align-items: center;
     gap: 10px;
     font-family: 'Plex Mono', monospace;
+    max-width: 300px;
+    margin-bottom: 2rem;
   }
 
   .audio-btn {
     background-color: transparent; 
-    color: var(--bg-color);
+    color: #ff00ff;
     border: none;
     cursor: pointer;
     padding: 0;
@@ -349,26 +354,26 @@ nav {
     width: 15px;
     height: 15px;
     display: block;
-    fill: var(--bg-color);
+    fill: #ff00ff;
   }
 
   .progress-container {
     flex: 1;
     height: 8px;
-    background-color: #ccc;
+    background-color: rgba(0, 255, 0, 0.4);
     position: relative;
     cursor: pointer;
   }
 
   .progress-bar {
     height: 100%;
-    background-color: var(--bg-color);
+    background-color: #ff00ff;
     width: 0%;
   }
 
   .time {
     font-size: 12px;
-    color: #00ff00;
+    color: #ff00ff;
     min-width: 80px;
     text-align: right;
   }
@@ -407,3 +412,61 @@ nav {
   cursor: pointer;
   line-height: 1;
 }
+
+
+
+.project-tags a {
+  text-decoration: none;
+  font-size: 0.75rem;
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+  color: var(--text-color);
+}
+
+.project-tags {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  padding: 0;
+  margin: 0.5rem 0;
+}
+
+@media (max-width: 800px) {
+
+.project-tags {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  padding: 0;
+  margin: 0.5rem 0.5rem;
+  } 
+
+}
+
+@media (max-width: 600px) {
+
+.project-tags {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  padding: 0;
+  margin: 0.5rem 0.5rem;
+  } 
+
+}
+
+.project-tags li {
+  font-size: 0.75rem;
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+  text-decoration: none;
+  background: rgba(0, 255, 0, 0.4);
+  color: var(--text-color);
+  padding: 0.2rem 0.6rem;
+  border-radius: 20px;
+}
+
+

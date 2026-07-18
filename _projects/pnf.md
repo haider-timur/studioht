@@ -2,6 +2,7 @@
 title: "storefront poem Caspia Cassiopeia"
 description: "A poem exhibited on the storefront of Page Not Found, as part of their open call 'Open Letters.'"
 date: 2023-01-25
+tags: [installation, print, poetry]
 thumbnail: /assets/images/PNFOpenLetterCaspiaCassiopeia.JPG
 layout: project
 ---
