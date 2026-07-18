@@ -164,7 +164,6 @@ nav {
 
   .nav-mobile-menu {
     display: flex;
-    align-items: stretch;
     flex-direction: column;
     width: 100%;
   }
