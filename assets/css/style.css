@@ -62,7 +62,7 @@ nav {
 
 .nav-left a,
 .nav-right a {
-  padding: 0.3rem 0.5rem;
+  padding: 0.3rem 0.7rem;
   font-family: "Roboto Slab", serif;
   font-size: 1.8rem;
   color: inherit;
@@ -100,6 +100,10 @@ nav {
 .about .about-body {
   margin: 0 auto;
   }
+
+.intro {
+  display: none;
+  }
   
 .contact .contact-body {
   margin: 0 auto;
@@ -124,7 +128,16 @@ nav {
   .about .about-body {
   margin: 0 0.5rem;
   }
+
+  .intro {
+    display: block;
+    margin-top: 1rem;
+  }
   
+  .intro p {
+  margin: 1rem 0.5rem;
+  }
+
   .contact .contact-body {
   margin: 0 0.5rem;
   }
@@ -431,6 +444,7 @@ nav {
   padding: 0;
   margin: 0.5rem 0;
 }
+
 
 @media (max-width: 800px) {
 

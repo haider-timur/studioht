@@ -3,6 +3,11 @@ layout: default
 title: Home
 ---
 
+<div class="intro">
+<p><strong>Hi, you've reached Haider Timur!</strong> I am a graphic designer with 6 years of experience in digital design.</p>
+
+<p>I've also recently started a sound, performance, and installation practice to create narrative-driven performances and express my artistic vision.</p></div>
+
 {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
 
 <div id="filter-indicator" style="display:none; margin-bottom: 1rem;">
