@@ -8,10 +8,22 @@ layout: project
 images:
   - src: /assets/images/L1211381.jpg
     alt: ""
-    caption: ⓒ documentation by Eirini
+    caption: ⓒ documentation by Eirini Kakopierou
   - src: /assets/images/L1211352.jpg
     alt: ""
-    caption: ⓒ documentation by Eirini
+    caption: ⓒ documentation by Eirini Kakopierou
+  - src: /assets/images/L1211299.jpg
+    alt: ""
+    caption: ⓒ documentation by Eirini Kakopierou
+  - src: /assets/images/L1211350.jpg
+    alt: ""
+    caption: ⓒ documentation by Eirini Kakopierou
+  - src: /assets/images/Framer Framed Between Fires 41 low res.jpg
+    alt: ""
+    caption: ⓒ documentation by Eirini Kakopierou
+  - src: /assets/images/MS__3198-Verbeterd-NR.jpg
+    alt: ""
+    caption: ⓒ documentation by Marlise Steeman
 
 ---
 

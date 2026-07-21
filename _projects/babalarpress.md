@@ -5,6 +5,16 @@ date: 2023-08-01
 tags: [web design, visual identity, graphic design]
 thumbnail: /assets/images/babalar-press-website.gif
 layout: project
+images:
+  - src: /assets/images/babalar-press-website.gif
+    alt: ""
+    caption: ⓒ Studio Haider Timur, 2023
+  - src: /assets/images/BP_PFP4.jpg
+    alt: ""
+    caption: ⓒ Studio Haider Timur, 2023
+  - src: /assets/images/poppyside.png
+    alt: ""
+    caption: ⓒ Studio Haider Timur, 2023
 ---
 
 <p>Babalar Press is a Qazaq experimental research, writing and publishing initiative for relearning,

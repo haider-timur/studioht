@@ -5,6 +5,16 @@ date: 2023-06-01
 tags: [graphic design, print]
 thumbnail: /assets/images/sfpc-ath-summarypost-01.jpg
 layout: project
+images:
+  - src: /assets/images/sfpc-ath-summarypost-01.jpg
+    alt: ""
+    caption: ⓒ Alternative Typographic Histories Publication, 2023
+  - src: /assets/images/alt-typographic-histories-type.png
+    alt: ""
+    caption: ⓒ Studio Haider Timur
+  - src: /assets/images/sfpc-ath-summarypost-02.jpg
+    alt: ""
+    caption: ⓒ Alternative Typographic Histories Publication, 2023
 ---
 
 <p>First attempt at a modular type for an online class taken at the School of Poetic Computation, NYC.
