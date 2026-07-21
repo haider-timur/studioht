@@ -8,7 +8,7 @@ layout: project
 images:
   - src: /assets/images/everywhere,nowhere, but rooted_web01_310125.jpg
     alt: ""
-    caption: Promo visual design by Alix Chauvet.
+    caption: ⓒ Promo visual design by Alix Chauvet.
   - src: /assets/images/Rooted-40.jpg
     alt: ""
     caption: ⓒ Photos by Yohannes Henriksson.

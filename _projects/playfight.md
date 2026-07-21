@@ -8,12 +8,16 @@ layout: project
 images:
   - src: /assets/images/playfight-club_Aug-01.jpg
     alt: ""
+    caption: ⓒ Studio Haider Timur, 2026
   - src: /assets/images/playfight-club_Aug-02.jpg
     alt: ""
+    caption: ⓒ Studio Haider Timur, 2026
   - src: /assets/images/playfight-club_Aug_alt.jpg
     alt: ""
+    caption: ⓒ Studio Haider Timur, 2026
   - src: /assets/images/playfight-club_2nd-edition.jpg
     alt: ""
+    caption: ⓒ Studio Haider Timur, 2026
   
 
 ---

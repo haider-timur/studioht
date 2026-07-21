@@ -8,7 +8,7 @@ layout: project
 images:
   - src: /assets/images/berg-spiegelscherf_preview.jpg
     alt: ""
-    caption: ⓒ cover design by me, 2026
+    caption: ⓒ Studio Haider Timur, 2026
 
 ---
 
