@@ -5,7 +5,7 @@ layout: default
   <h1>{{ page.title }}</h1>
   
   {% if page.tags %}
-   <ul class="project-tags">
+   <ul class="article-tags">
     {% for tag in page.tags %}
     <li><a href="{{ '/' | relative_url }}?tag={{ tag }}">{{ tag }}</a></li>
     {% endfor %}

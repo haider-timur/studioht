@@ -481,45 +481,32 @@ nav {
   gap: 0.4rem;
   padding: 0;
   margin: 0.5rem auto;
-}
-
-@media (max-width: 1000px) {
-
-.project-tags {
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem;
-  padding: 0;
-  margin: 0.5rem 0.7rem;
-  } 
-
+  max-width: 250px;
 }
 
 @media (max-width: 800px) {
+  .project-card {
+    max-width: 100%;
+    margin: 0 0.64rem;
+  }
 
-.project-tags {
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem;
-  padding: 0;
-  margin: 0.5rem 0.5rem;
-  } 
-
+  .project-tags {
+    max-width: 100%;
+    margin: 0.5rem 0.62rem;
+  }
 }
 
+
 @media (max-width: 600px) {
+.project-card {
+    max-width: 100%;
+    margin: 0 0.64rem;
+  }
 
-.project-tags {
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem;
-  padding: 0;
-  margin: 0.5rem 0.5rem;
-  } 
-
+  .project-tags {
+    max-width: 100%;
+    margin: 0.5rem 0.62rem;
+  }
 }
 
 .project-tags li {
@@ -533,3 +520,30 @@ nav {
   border-radius: 20px;
 }
 
+.article-tags {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  padding: 0;
+  margin: 0.5rem 0;
+}
+
+.article-tags a {
+  text-decoration: none;
+  font-size: 0.75rem;
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+  color: var(--text-color);
+}
+
+.article-tags li {
+  font-size: 0.75rem;
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+  text-decoration: none;
+  background: rgba(0, 255, 0, 0.4);
+  color: var(--text-color);
+  padding: 0.2rem 0.6rem;
+  border-radius: 20px;
+}
