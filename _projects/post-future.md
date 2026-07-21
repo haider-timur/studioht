@@ -8,7 +8,23 @@ layout: project
 images:
   - src: /assets/images/history-kz.webp
     alt: ""
-    caption: Designed by me, 2025
+    caption: ⓒ Studio Haider Timur, 2025
+  - src: /assets/images/video-essay.webp
+    alt: ""
+    caption: ⓒ Studio Haider Timur, 2025
+  - src: /assets/images/history-ru-en.webp
+    alt: ""
+    caption: ⓒ Studio Haider Timur, 2025
+  - src: /assets/images/chronology.webp
+    alt: ""
+    caption: ⓒ Studio Haider Timur, 2025
+  - src: /assets/images/a08449dc-7909-4eab-afa6-d1ebae5ddf84.JPG
+    alt: ""
+    caption: ⓒ Studio Haider Timur, 2025
+  - src: /assets/images/0679D357-4456-45A4-A373-2FAEA9A49BE6.JPG
+    alt: ""
+    caption: ⓒ Studio Haider Timur, 2025
+
 
 ---
 

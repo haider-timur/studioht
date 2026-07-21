@@ -8,7 +8,7 @@ layout: project
 images:
   - src: /assets/images/dragging-liquid-gayzes-7-June-IG.jpg
     alt: ""
-    caption: ⓒ Poster design by me, June 2026
+    caption: ⓒ Studio Haider Timur, June 2026
 
 ---
 

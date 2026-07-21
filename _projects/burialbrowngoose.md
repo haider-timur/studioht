@@ -25,3 +25,5 @@ for the exhibition <a href="https://framerframed.nl/exposities/between-fires/">B
 
 <p>Materials: concrete, steel, wood, automated audio, agar-based bioplastic.</p>
 <p>Credits: Anemoia Tacenda (bodywear), Gizem Üstüner (headwear), Jee Chan (choreography), Ache C. Wang (steelwork). Contains excerpts from Junisbay Stambayev's 'Brown Goose' (20th century).</p>
+
+<p>Links to the music and and to the video documentation are available upon request.</p>
