@@ -159,7 +159,7 @@ nav {
   .intro {
     display: block;
     margin-top: 2rem;
-    color: #888888;
+    color: #686868;
     text-shadow: 0 0 8px #ffbbfd, 0 0 16px #ffbbfd, 0 0 24px #ffbbfd;
   }
   
@@ -167,6 +167,10 @@ nav {
     font-size: 1rem;
     font-weight: 300;
     margin: 1rem 0.64rem;
+  }
+
+  .intro a {
+    color: #20c320;
   }
 
   #filter-indicator {
