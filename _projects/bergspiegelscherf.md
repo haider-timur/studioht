@@ -2,7 +2,7 @@
 title: "book cover design for Berg, Spiegelscherf, published by Das Mag"
 description: ""
 date: 2026-03-30
-tags: [print, graphic design]
+tags: [commissioned]
 thumbnail: /assets/images/berg-spiegelscherf_preview.jpg
 layout: project
 images:

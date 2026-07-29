@@ -1,7 +1,7 @@
 ---
 title: "screening of 'temirtau' for Sea, Dream, Land, Mine at Kunstfort Vijfhuizen"
 description: ""
-tags: [talks, interviews, audio, video]
+tags: [talks, artistic]
 date: 2022-03-05
 thumbnail: /assets/images/Kunstfort bij Vijfhuizen publieksprogramma Sea, Dream, Land, Mine – photo 31 – high res.JPG
 layout: project

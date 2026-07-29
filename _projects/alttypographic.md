@@ -2,7 +2,7 @@
 title: "modular type for Alternative Typographic Histories"
 description: "First attempt at a modular type for an online class taken at the School of Poetic Computation, NYC."
 date: 2023-06-01
-tags: [graphic design, print]
+tags: [collaborations]
 thumbnail: /assets/images/sfpc-ath-summarypost-01.jpg
 layout: project
 images:

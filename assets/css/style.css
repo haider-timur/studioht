@@ -62,7 +62,7 @@ nav {
 }
 
 .nav-left a:hover {
-  background-color: #ffff8d;
+  background-color: #ffdb92;
 }
 
 .nav-left,
@@ -82,6 +82,13 @@ nav {
   text-decoration: none;
   font-weight: 500;
 }
+
+.nav-left a.active,
+.nav-right a.active,
+.nav-mobile-menu a.active {
+  background-color: #ffff8d;;
+}
+
 
 .nav-mobile-menu {
   display: none;
@@ -104,7 +111,7 @@ nav {
   background-color: #a7ff8a;
 }
 
-.nav-mobile-menu a:nth-child(2) {
+.nav-mobile-menu a:nth-child(6) {
   background-color: #ffbbfd;
 }
 
@@ -112,22 +119,41 @@ nav {
 .project .project-body {
   margin: 0 auto;
   }
-.about .about-body {
+
+.tag-bio {
   margin: 0 auto;
   }
 
+.tag-bio a {
+  color: #20c320;
+  text-decoration: none;
+}
+
 .intro {
-  display: none;
+    display: block;
+    margin-top: 1rem;
+    color: #686868;
+    text-shadow: 0 0 8px #ffbbfd, 0 0 16px #ffbbfd, 0 0 24px #ffbbfd;
+  }
+  
+  .intro p {
+    font-size: 1rem;
+    font-weight: 300;
+    margin: 1rem 0;
+  }
+
+  .intro a {
+    color: #20c320;
   }
   
 .contact .contact-body {
   margin: 0 auto;
   }
 
-#filter-indicator {
-  margin-top: 1.5rem;
-    color: #888888;
-    text-shadow: 0 0 8px #ffbbfd, 0 0 16px #ffbbfd, 0 0 24px #ffbbfd;
+.all {
+    margin-top: 1.5rem;
+    color: #686868;
+    text-shadow: 0 0 8px #a7ff8a, 0 0 16px #a7ff8a, 0 0 24px #a7ff8a;
 }
 
 .contact a {
@@ -152,13 +178,23 @@ nav {
   .project .project-body {
   margin: 0 0.64rem;
   }
-  .about .about-body {
+
+  .tag-bio {
+  margin: 0 0.64rem;
+  }
+
+  .tag-bio a {
+  color: #20c320;
+  text-decoration: none;
+  }
+
+  .all {
   margin: 0 0.64rem;
   }
 
   .intro {
     display: block;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
     color: #686868;
     text-shadow: 0 0 8px #ffbbfd, 0 0 16px #ffbbfd, 0 0 24px #ffbbfd;
   }
@@ -171,10 +207,6 @@ nav {
 
   .intro a {
     color: #20c320;
-  }
-
-  #filter-indicator {
-    margin-left: 0.64rem;
   }
 
   .contact .contact-body {

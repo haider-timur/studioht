@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="tag-bio">
+  {{ content }}
+</div>
+
+<div class="project-grid" id="project-grid">
+  {% assign filtered_projects = site.projects | where_exp: "project", "project.tags contains page.tag" | sort: 'date' | reverse %}
+  {% for project in filtered_projects %}
+    <div class="project-item">
+      <a href="{{ project.url | relative_url }}" class="project-card-link">
+        <div class="project-card">
+          {% if project.thumbnail %}
+            <img src="{{ project.thumbnail | relative_url }}" alt="{{ project.title }}" loading="lazy">
+          {% endif %}
+          <h2>{{ project.title }}</h2>
+        </div>
+      </a>
+    
+    </div>
+  {% endfor %}
+</div>
