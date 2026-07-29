@@ -131,9 +131,9 @@ nav {
 }
 
 .contact a {
-    color: #888888;
+    color: #686868;
     text-decoration: none;
-    text-shadow: 0 0 8px #ffbbfd, 0 0 16px #ffbbfd, 0 0 24px #ffbbfd;
+    text-shadow: 0 0 8px #ffff8d, 0 0 16px #ffff8d, 0 0 24px #ffff8d;
   } 
 
 @media (max-width: 800px) {
