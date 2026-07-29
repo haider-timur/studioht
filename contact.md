@@ -3,10 +3,9 @@ layout: contact
 title: Contact
 ---
 
-Please choose an option below and fill out a form that suits your inquiry.
+<p><a href="https://www.instagram.com/haider.mkht/">ig: @haider.mkht</a></p>
+<p><a href="mailto:haider.timur@pm.me">mail: haider.timur@pm.me</a></p>
 
-    1. Collaboration
-
-    2. Commission
-
-    3. Other
+Studio Haider Timur is open for commissions and collaborations.
+Interested in print, performance, audio recording, and web design projects. 
+Available for talks and interviews upon request. 
