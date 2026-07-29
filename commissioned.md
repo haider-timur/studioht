@@ -5,6 +5,8 @@ tag: commissioned
 permalink: /commissioned/
 ---
 
-Haider is available for graphic design inquiries, whether it's web, digital, or publications.
+<p>Available for graphic design inquiries.</p>
+<p>Web design, visual identity, publications, posters, flyers.</p>
 
-<p>Browse <a href="{{ '/' | relative_url }}">all</a> works</p>
+<p class="all-other">↘↘↘↘↘ showing: commissioned projects</p>
+<p class="all-other"><a href="{{ '/' | relative_url }}">browse all works instead</a></p>

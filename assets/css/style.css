@@ -1,15 +1,16 @@
 :root {
   --bg-color: #ffffff;
   --text-color: #3614af;
+  --max-width: 1600px;
 }
 
 body {
   font-family: "Inter Tight", sans-serif;
-  max-width: 1900px;
   margin: 0 auto;
   padding: 1.5rem;
   background-color: var(--bg-color);
   color: var(--text-color);
+  overflow-x: hidden;
 }
 
 footer p {
@@ -23,10 +24,12 @@ footer {
   flex-wrap: wrap;
   gap: 1rem;
   margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding: 1vw;
+  background: #dedede;
 }
 
 .container {
-  max-width: var(--max-width);
   margin: 0 auto;
   margin-bottom: 1rem;
   padding: 1vw;
@@ -151,10 +154,17 @@ nav {
   }
 
 .all {
-    margin-top: 1.5rem;
+    text-align: center;
+    margin-top: 1rem;
     color: #686868;
     text-shadow: 0 0 8px #a7ff8a, 0 0 16px #a7ff8a, 0 0 24px #a7ff8a;
 }
+
+.all-other {
+    text-align: right;
+    color: #686868;
+    text-shadow: 0 0 8px #a7ff8a, 0 0 16px #a7ff8a, 0 0 24px #a7ff8a;
+  }
 
 .contact a {
     color: #686868;
@@ -162,12 +172,18 @@ nav {
     text-shadow: 0 0 8px #ffff8d, 0 0 16px #ffff8d, 0 0 24px #ffff8d;
   } 
 
+
 @media (max-width: 800px) {
 
+  
   footer {
-  margin: 0 0.64rem;
   margin-top: 1rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
+  background: #dedede;
+  }
+
+  footer p {
+    margin: 0 0.64rem;
   }
 
   h1 {
@@ -188,13 +204,10 @@ nav {
   text-decoration: none;
   }
 
-  .all {
-  margin: 0 0.64rem;
-  }
-
   .intro {
     display: block;
     margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
     color: #686868;
     text-shadow: 0 0 8px #ffbbfd, 0 0 16px #ffbbfd, 0 0 24px #ffbbfd;
   }
@@ -209,8 +222,14 @@ nav {
     color: #20c320;
   }
 
+  .all {
+  margin-top: 1rem;
+  margin: 0 0.64rem;
+  }
+
   .contact .contact-body {
   margin: 0 0.64rem;
+  margin-bottom: 1rem;
   }
 
   .nav-desktop {
@@ -223,6 +242,10 @@ nav {
     width: 100%;
   }
 
+  .color-controls {
+    margin: 0 0.64rem;
+  }
+
 }
 
 
@@ -231,6 +254,16 @@ nav {
   grid-template-columns: repeat(4, 1fr);
   gap: 3rem;
   margin: 2rem 0;
+}
+
+.home-section {
+  background: #dedede;
+  padding: 1vw;
+  border-top: 1px solid var(--text-color);
+}
+
+.home-grid {
+  padding-top: 0;
 }
 
 .project-grid a {
@@ -349,19 +382,23 @@ nav {
   margin: 0 auto;
 }
 
-@media (max-width: 500px) {
-  .project-gallery figure:only-child {
-  max-width: 400px;
-  margin: 0 0.64rem;
-}
-}
-
 .project-gallery figcaption {
   font-size: 0.7rem;
   color: var(--text-color);
   margin-top: 0.4rem;
   text-align: left;
+  font-family: "Inter Tight", sans-serif;
 }
+
+@media (max-width: 500px) {
+  .project-gallery figure:only-child {
+  max-width: 400px;
+  margin: 0 0.64rem;
+  margin-bottom: 1rem;
+}
+
+}
+
 
 
 .project .project-body a {

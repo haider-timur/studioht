@@ -1,6 +1,10 @@
 ---
 layout: contact
 title: Contact
+images:
+  - src: /assets/images/DSCF0632-copy_smaller.jpg
+    alt: ""
+    caption: ⓒ Zinmong Studio
 ---
 
 <p><a href="https://www.instagram.com/haider.mkht/">ig: @haider.mkht</a></p>

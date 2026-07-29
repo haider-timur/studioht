@@ -9,4 +9,5 @@ permalink: /artistic/
 
 <p>Haider’s work has been exhibited and screened at Framer Framed (Amsterdam, NL), Page Not Found (The Hague, NL), No Limits! Art Castle (Amsterdam, NL), Kunstfort Vijfhuizen (NL), Keizersgrachtkerk (Amsterdam, NL), National Museum of Astana (KZ), The Grey Space in the Middle (The Hague, NL), Bult (Almaty, KZ), Radion (Amsterdam, NL).</p>
 
-<p>Browse <a href="{{ '/' | relative_url }}">all</a> works</p>
+<p class="all-other">↘↘↘↘↘ showing: artistic projects</p>
+<p class="all-other"><a href="{{ '/' | relative_url }}">browse all works instead</a></p>

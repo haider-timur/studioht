@@ -28,14 +28,35 @@
 <body>
 
   {% include nav.html %}
-    
   <div class="container">
-  
     <main>
       {{ content }}
     </main>
-    {% include footer.html %}
   </div>
+
+  
+  {% if page.url == '/' %}
+  <div class="home-section">
+    <div class="all">
+  <p>↘↘↘↘↘ showing: all projects ↘↘↘↘↘</p></div>
+    {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
+    <div class="project-grid home-grid" id="project-grid">
+      {% for project in sorted_projects %}
+        <div class="project-item" data-tags="{{ project.tags | join: ',' }}">
+          <a href="{{ project.url | relative_url }}" class="project-card-link">
+            <div class="project-card">
+              {% if project.thumbnail %}
+                <img src="{{ project.thumbnail | relative_url }}" alt="{{ project.title }}">
+              {% endif %}
+              <h2>{{ project.title }}</h2>
+            </div>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}</div>
+
+  {% include footer.html %}
 
   <script src="{{ '/assets/js/color-picker.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/lightbox.js' | relative_url }}"></script>
