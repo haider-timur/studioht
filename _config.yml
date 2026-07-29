@@ -1,7 +1,7 @@
 title: Studio HT
 description: Portfolio site
-baseurl: "/studioht"
-url: "https://haider-timur.github.io"
+baseurl: ""
+url: "https://studioht.net"
 
 collections:
   projects:
