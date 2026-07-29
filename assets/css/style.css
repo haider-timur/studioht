@@ -380,6 +380,7 @@ nav {
 .project-gallery figure:only-child {
   max-width: 400px;
   margin: 0 auto;
+  margin-bottom: 1rem;
 }
 
 .project-gallery figcaption {

@@ -7,5 +7,5 @@ permalink: /talks/
 
 Haider's talks and interviews are featured in Mr. Motley (NL), Radio Worm (Rotterdam, NL), Babalar Press (KZ), Red Light Radio (Amsterdam, NL), Amsterdam Museum (NL), LAB111 (Amsterdam, NL) among others.
 
-<p class="all-other">&#8600;&#65038;&#8600;&#65038;&#8600;&#65038;&#8600;&#65038;&#8600;&#65038; showing: talks</p>
+<p class="all-other">&#8600;&#65038;&#8600;&#65038;&#8600;&#65038;&#8600;&#65038;&#8600;&#65038;   showing: talks</p>
 <p class="all-other"><a href="{{ '/' | relative_url }}">browse all works instead</a></p>
