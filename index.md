@@ -7,7 +7,7 @@ title: Home
 <p>Haider Timur (he/him) is a graphic designer and hybrid media artist based in Amsterdam.</p>
 
 <p>As the founder of Studio Haider Timur, he began a sound, performance, and installation practice to create narrative-driven performances and express his artistic vision. <a href="{{ '/about' | relative_url }}">(...more)</a></p>
-<p>See my projects below.</p></div>
+<p>See his projects below.</p></div>
 
 {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
 
