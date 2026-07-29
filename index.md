@@ -4,9 +4,9 @@ title: Home
 ---
 
 <div class="intro" id="intro">
-<p><strong>Hi, you've reached Haider Timur!</strong> I am a graphic designer based in Amsterdam with 6 years of experience in digital design.</p>
+<p>Haider Timur (he/him) is a graphic designer and hybrid media artist based in Amsterdam.</p>
 
-<p>I've also started a narrative-driven sound, performance, and installation practice to express my artistic vision.</p>
+<p>As a founder of Studio Haider Timur, he began a sound, performance, and installation practice to create narrative-driven performances and express his artistic vision.</p>
 <p>See my projects below.</p></div>
 
 {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
