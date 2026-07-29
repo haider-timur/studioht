@@ -11,7 +11,7 @@ Haider Timur (he/him) is a graphic designer and hybrid media artist based in Ams
 
 As the founder of Studio Haider Timur, he also began a sound, performance, and installation practice to create narrative-driven performances and express his artistic vision. Haider is currently studying in the MA programme in Design at the Sandberg Institute (2026-2028).
 
-In his personal artistic projects, he is concerned with body as a source of (dys-)autonomy and visceral expressions, moving through different contexts: folk imaginaries, natural landscapes, and labor. 
+In his personal artistic projects, he is concerned with body and its visceral depictions as sources of autonomy or coercion, moving through different contexts: folk imaginaries, natural landscapes, and labor. 
 
 Haider’s work has been exhibited and screened at Framer Framed (Amsterdam, NL), Page Not Found (The Hague, NL), No Limits! Art Castle (Amsterdam, NL), Kunstfort Vijfhuizen (NL), Keizersgrachtkerk (Amsterdam, NL), National Museum of Astana (KZ), The Grey Space in the Middle (The Hague, NL), Bult (Almaty, KZ), Radion (Amsterdam, NL).
 
