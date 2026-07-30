@@ -5,6 +5,16 @@ date: 2023-01-25
 tags: [artistic]
 thumbnail: /assets/images/PNFOpenLetterCaspiaCassiopeia.JPG
 layout: project
+images:
+  - src: /assets/images/PNFOpenLetterCaspiaCassiopeia.JPG
+    alt: ""
+    caption: ⓒ Studio Haider Timur, 2023
+  - src: /assets/images/haider_storefront_page-not-found_fish_sketch-02.jpg
+    alt: ""
+    caption: ⓒ Studio Haider Timur, 2023
+  - src: /assets/images/PNF_The_Old_City_Centre_article.jpg
+    alt: ""
+    caption: by T. Nachtegaal in The Old City Centre, District Magazine
 ---
 
 
