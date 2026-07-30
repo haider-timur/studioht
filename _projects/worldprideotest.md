@@ -8,7 +8,7 @@ layout: project
 images:
   - src: /assets/images/protest_poster_26May-2026_web.jpg
     alt: ""
-    caption: ⓒ Protest Poster by me, 26 May 2026
+    caption: ⓒ Studio Haider Timur, 2026
 
 ---
 
