@@ -22,4 +22,4 @@ images:
 
 ---
 
-
+<p>Playfight Club gives space for adults to experiment with physical playfulness and the art of reading and communicating through the body. Organised by Yun Lee, multidisciplinary artist and performer based in The Hague.</p>
